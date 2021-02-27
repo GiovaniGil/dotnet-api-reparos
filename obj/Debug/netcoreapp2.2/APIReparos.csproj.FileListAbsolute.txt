@@ -1,0 +1,14 @@
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/bin/Debug/netcoreapp2.2/APIReparos.deps.json
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/bin/Debug/netcoreapp2.2/APIReparos.runtimeconfig.json
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/bin/Debug/netcoreapp2.2/APIReparos.runtimeconfig.dev.json
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/bin/Debug/netcoreapp2.2/APIReparos.dll
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/bin/Debug/netcoreapp2.2/APIReparos.pdb
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.csprojAssemblyReference.cache
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.csproj.CoreCompileInputs.cache
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.RazorAssemblyInfo.cache
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.RazorAssemblyInfo.cs
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.AssemblyInfoInputs.cache
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.AssemblyInfo.cs
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.RazorTargetAssemblyInfo.cache
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.dll
+/home/giovani/Documentos/Projetos/NET Core/projetos/APIReparos/obj/Debug/netcoreapp2.2/APIReparos.pdb

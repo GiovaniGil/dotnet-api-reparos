@@ -1,2 +1,5 @@
-# dotnet-api-reparos
-Baixar projeto e executar em command line: dotnet run
+## Execução:
+
+No diretório do projeto executar:
+
+### `dotnet run`
